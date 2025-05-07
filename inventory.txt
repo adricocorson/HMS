@@ -1,0 +1,2 @@
+IN001|Panadol|100
+IN002|Mask|230

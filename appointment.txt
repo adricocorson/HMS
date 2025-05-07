@@ -1,0 +1,7 @@
+DOC001|DR. x|09/06/2024|12|Booked|PAT002|John|
+DOC001|DR. x|09/06/2024|13|Available|Na|Na|
+DOC001|DR. x|09/06/2024|14|Available|Na|Na|
+DOC001|DR. x|09/06/2024|15|Booked|PAT001|Reihan|
+DOC002|DR. Who|09/06/2024|14|Available|Na|Na|
+DOC002|DR. Who|09/06/2024|15|Booked|PAT002|John|
+DOC002|DR. Who|09/06/2024|16|Available|Na|Na|
